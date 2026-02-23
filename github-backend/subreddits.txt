@@ -1,0 +1,20 @@
+# Subreddits to pull (weekly top posts)
+#
+# General viral content
+TikTokCringe
+Damnthatsinteresting
+meirl
+
+# Trend explainers / internet culture
+OutOfTheLoop
+InternetIsBeautiful
+MemeEconomy
+popculturechat
+
+# Fashion trends
+streetwear
+malefashionadvice
+
+# Music trends
+Music
+ListenToThis
